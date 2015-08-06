@@ -20,7 +20,7 @@
 #include <gst/pbutils/missing-plugins.h>
 #include <sys/stat.h>
 
-#define HTTP_TIMEOUT 30
+#define HTTP_TIMEOUT 60
 
 /*
  * UNUSED variable from service reference is now used as buffer flag for gstreamer
